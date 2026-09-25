@@ -41,10 +41,16 @@
 ### GitHub Metrics & Stats
 
 <p align="center">
-  <a href="https://github.com/meetlawrence"><img src="https://img.shields.io/badge/Repositories-15%2B-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/meetlawrence"><img src="https://img.shields.io/badge/Repositories-20%2B-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/meetlawrence"><img src="https://img.shields.io/badge/Tech%20Stack-TypeScript%20%7C%20React%20%7C%20Node-1d4ed8?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://github.com/meetlawrence"><img src="https://img.shields.io/badge/Full%20Stack%20Apps-5%2B-10b981?style=for-the-badge&logo=cloudfoundry&logoColor=white" /></a>
+  <a href="https://github.com/meetlawrence"><img src="https://img.shields.io/badge/Full%20Stack%20Apps-8%2B-10b981?style=for-the-badge&logo=cloudfoundry&logoColor=white" /></a>
   <a href="https://github.com/meetlawrence"><img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-f59e0b?style=for-the-badge&logo=frontapp&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/meetlawrence"><img src="https://img.shields.io/badge/Total%20Commits-250%2B-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/meetlawrence"><img src="https://img.shields.io/badge/Pull%20Requests-35%2B-1d4ed8?style=for-the-badge&logo=gitpullrequest&logoColor=white" /></a>
+  <a href="https://github.com/meetlawrence"><img src="https://img.shields.io/badge/Contribution%20Grade-A%2B-10b981?style=for-the-badge&logo=trendingup&logoColor=white" /></a>
 </p>
 
 ---
