@@ -11,7 +11,7 @@
   Port Harcourt & Lagos, Nigeria &nbsp;|&nbsp; 
   <a href="mailto:meetlawrence@outlook.com">meetlawrence@outlook.com</a> &nbsp;|&nbsp; 
   +2349066678117 &nbsp;|&nbsp; 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="14" height="14" /> <a href="https://github.com/meetlawrence">GitHub</a>
+  <a href="https://meetlawrence.github.io/wdd231/index1.html">Academic Progress</a>
 </div>
 
 ---
