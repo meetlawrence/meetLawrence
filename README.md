@@ -38,12 +38,14 @@
 
 ---
 
-### GitHub Stats
+### GitHub Metrics & Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meetlawrence&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetlawrence&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22&langs_count=7" width="48%" alt="Top Languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/meetlawrence"><img src="https://img.shields.io/badge/Repositories-15%2B-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/meetlawrence"><img src="https://img.shields.io/badge/Tech%20Stack-TypeScript%20%7C%20React%20%7C%20Node-1d4ed8?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://github.com/meetlawrence"><img src="https://img.shields.io/badge/Full%20Stack%20Apps-5%2B-10b981?style=for-the-badge&logo=cloudfoundry&logoColor=white" /></a>
+  <a href="https://github.com/meetlawrence"><img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-f59e0b?style=for-the-badge&logo=frontapp&logoColor=white" /></a>
+</p>
 
 ---
 
