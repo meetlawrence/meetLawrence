@@ -10,7 +10,7 @@
 <div align="center">
   Port Harcourt & Lagos, Nigeria &nbsp;|&nbsp; 
   <a href="mailto:meetlawrence@outlook.com">meetlawrence@outlook.com</a> &nbsp;|&nbsp; 
-   +2349066678117 &nbsp;|&nbsp; 
+  +2349066678117 &nbsp;|&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="14" height="14" /> <a href="https://github.com/meetlawrence">GitHub</a>
 </div>
 
@@ -35,6 +35,15 @@
 * **[Handcrafted Haven](https://handcrafted-haven-team14.vercel.app/)** — *Collaborative artisan e-commerce marketplace built with Next.js, Tailwind CSS, and robust order management controller logic.*
 * **[CineVibe](https://meetlawrence.github.io/wdd330/cinevibe/index.html)** — *Dynamic movie exploration platform consuming The Movie Database and YouTube APIs for real-time trending media and embedded trailers.*
 * **[Campus Food Discovery (AbegChop)](https://meetlawrence.github.io/wdd231/project/index.html)** — *Mobile-first web application designed for students to browse local vendor menus with fast loading performance.*
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meetlawrence&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetlawrence&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22" width="48%" />
+</div>
 
 ---
 
